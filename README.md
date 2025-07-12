@@ -1,6 +1,6 @@
 # 📰 Trang Tin Điện Tử Viettel An Giang
 
-> Một hệ thống quản lý nội dung tin tức nội bộ cho doanh nghiệp, hỗ trợ phân quyền, kiểm duyệt và xuất bản bài viết nhiều cấp.
+> Hệ thống quản lý nội dung tin tức, hỗ trợ phân quyền, kiểm duyệt và xuất bản bài viết nhiều cấp.
 
 ## 📌 Mô tả dự án
 
@@ -26,7 +26,6 @@ Các tính năng chính bao gồm:
 | Spatie Permission | Gói phân quyền người dùng |
 | Bootstrap 5.3 | Thiết kế giao diện responsive |
 | CKEditor 5 | Trình soạn thảo nội dung |
-| jQuery 3.6.4 | Tương tác client-side |
 
 ---
 
