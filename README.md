@@ -1,6 +1,6 @@
 # 📰 Trang Tin Điện Tử Viettel An Giang
 
-> Hệ thống quản lý nội dung tin tức, hỗ trợ phân quyền, kiểm duyệt và xuất bản bài viết nhiều cấp.
+> Hệ thống quản lý nội dung tin tức, hỗ trợ phân quyền, kiểm duyệt và xuất bản bài viết thông qua quy trình kiểm duyệt chặt chẽ.
 
 ## 📌 Mô tả dự án
 
